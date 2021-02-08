@@ -115,6 +115,10 @@
     font-size: 8vw;
   }
 
+  .bg-notpurple {
+    background-color: #C271FF;
+  }
+
   .btn-notpurple {
     background-color: #C271FF;
     border: none;
@@ -139,4 +143,7 @@
     font-size: 18px;
     line-height: 27px;
   }
-  
+
+  .white-arrow {
+    height: 60px;
+  }
