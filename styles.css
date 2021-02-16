@@ -174,3 +174,19 @@
     font-size: 5rem;
   }
 
+  .bg-newdark {
+    background-color: #071629;
+  }
+
+  .fontsize-18 {
+    font-size: 18px;
+  }
+
+  .opacity-foot {
+    opacity: 0.35;
+  }
+
+  .social-icon {
+    color: white;
+    font-size: 35px;
+  }
